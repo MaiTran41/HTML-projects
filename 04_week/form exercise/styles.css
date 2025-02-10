@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #236747;
+}
+
+#form {
+  background-color: white;
+  width: 360px;
+  height: 680px;
+  border-radius: 5px;
+  padding: 20px 10px;
+  margin: 10px auto;
+}
+
+label {
+  margin: 16px 10px;
+}
+
+input {
+  display: block;
+  margin: 5px auto 16px auto;
+  width: 320px;
+  height: 32px;
+  border: 2px solid lightgrey;
+  border-radius: 5px;
+  font-family: inherit;
+  font-size: 16px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#form p {
+  text-align: center;
+  margin: 10px;
+  font-size: 16px;
+  padding: 16px 10px;
+}
+
+button {
+  width: 240px;
+  background-color: #fa7f37;
+  color: white;
+  border: 0 solid;
+  border-radius: 5px;
+  height: 32px;
+  display: block;
+  margin: auto;
+}
+
+a {
+  color: #fa7f37;
+  text-decoration: none;
+}
+
+#login {
+  color: white;
+  text-align: center;
+  margin: 16px;
+}
+
+#conditions {
+  font-size: 4px;
+  margin: 8px;
+}
+
+/*  */
+/* body font-family: Raleway, sans serif */

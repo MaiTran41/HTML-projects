@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: beige;
+}
+
+header {
+  padding: 35px;
+  margin: 0;
+  border-bottom: 2px solid navy;
+  background-color: lightblue;
+  font-size: 40px;
+  color: navy;
+  font-style: italic;
+}
+
+.introduction {
+  margin: 16px;
+  padding: 16px;
+  background-color: darkseagreen;
+  height: 25%;
+}
+
+ul {
+  margin: 16px;
+  padding: 16px;
+  height: 500px;
+  background-color: lightskyblue;
+  height: 500px;
+}
+
+footer {
+  margin: auto;
+  text-align: center;
+  padding: 16px;
+  background-color: lightblue;
+}
+
+img {
+  padding: 16px;
+  height: 650px;
+  background-size: cover;
+}
+
+h2 {
+  font-size: 32px;
+  padding: 16px;
+}

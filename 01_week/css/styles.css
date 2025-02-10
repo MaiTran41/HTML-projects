@@ -1,0 +1,24 @@
+h1 {
+  color: salmon;
+  font-size: 18px;
+}
+
+p {
+  color: green;
+  background-color: blanchedalmond;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+}
+
+#id1 {
+  background-color: aquamarine;
+}
+
+.class1 {
+  background-color: cadetblue;
+}
+
+.class2 {
+  background-color: coral;
+}
